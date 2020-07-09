@@ -3,6 +3,7 @@ set nu
 set nobackup
 set nowritebackup
 set noerrorbells
+set belloff=all
 set shiftwidth=4
 set tabstop=4
 set softtabstop=4
@@ -27,4 +28,13 @@ call plug#end()
 
 colorscheme gruvbox
 set background=dark
+
+let mapleader=' '
+
+nnoremap <leader>h :wincmd h<CR>
+nnoremap <leader>j :wincmd j<CR>
+nnoremap <leader>k :wincmd k<CR>
+nnoremap <leader>l :wincmd l<CR>
+nnoremap <leader>u :UndotreeShow<CR>
+nnoremap <leader>w :w<CR>
 
