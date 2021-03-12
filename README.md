@@ -1,4 +1,4 @@
-# dotfiles
+# Artur's Dotfiles
 Artur's .dotfiles
 
 ## Vim
@@ -12,4 +12,8 @@ Artur's .dotfiles
 ## ZSH
 
 `.zshrc`
+
+## Git
+
+`git.sh`
 
