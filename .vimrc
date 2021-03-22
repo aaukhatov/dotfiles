@@ -11,6 +11,8 @@ set expandtab
 set smartindent
 set nowrap
 set smartcase
+set showmode
+set title
 set noswapfile
 set undodir=~/.vim/undodir
 set undofile
