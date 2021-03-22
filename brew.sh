@@ -26,3 +26,6 @@ brew install tcpreplay
 brew install tcptrace
 
 brew install p7zip
+
+brew cleanup
+
