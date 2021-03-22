@@ -19,3 +19,8 @@ brew install tree
 brew install utf8proc
 brew install gcc
 brew install gdbm
+
+# TCP Tools
+brew install tcpflow
+brew install tcpreplay
+brew install tcptrace
